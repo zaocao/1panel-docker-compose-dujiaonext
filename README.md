@@ -123,7 +123,7 @@ curl -sSL https://resource.1panel.pro/quick_start.sh -o quick_start.sh && bash q
 后续你可能需要到的进程守护（可选）顺带执行
 
 ```bash
-sudo apt-get install supervisor
+sudo apt-get install supervisor -y
 ```
 
 安装好1Panel面板后，我们把面板登录信息全部复制记下来，到这里全部准备工作就已经做完了。
