@@ -5,7 +5,7 @@
 - 感谢独角（Dujiao-Next）作者 assimon 的开源项目！
 
 - 本篇教程将指导你使用1Panel面板（开源）结合 Docker 环境，优雅地部署新版独角。
-相比于社区文档中使用 aaPanel 手动下载编译好的二进制文件部署，本篇采用的 宝塔+Docker部署 方案，在后续的版本更新维护上会更加方便快捷。
+相比于社区文档中使用 aaPanel 手动下载编译好的二进制文件部署，本篇采用的 1Panel docker compose部署 方案，在后续的版本更新维护上会更加方便快捷。
 
 - 手动去安装Redis和Postgresql数据库应用好处：
 如果你有其他web项目或者程序已经在使用1Panel面板  以及 Redis和Postgresql  
